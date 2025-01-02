@@ -1,0 +1,38 @@
+{
+    "user_info": {
+      "full_name": "John Doe",
+      "title": "Data Analyst",
+      "email": "johndoe@example.com"
+    },
+    "company_info": {
+      "company_name": "DataTech Inc.",
+      "year_founded": "2015",
+      "business_type": "B2B",
+      "operating_locations": ["United States", "Canada", "Germany"],
+      "main_industry": "Information Technology",
+      "website": "https://www.datatech.com",
+      "company_description": "Innovative data solutions for businesses.",
+      "annual_revenue": "$50M-$100M",
+      "employee_count": "201-500",
+      "notable_customers": "BigTech Corp, FinancePro Ltd."
+    },
+    "data_info": {
+      "year_began_collecting_data": "2018",
+      "has_end_users": true,
+      "end_user_count": 50000,
+      "total_records": "10K-50K",
+      "attributes_collected": "101-500",
+      "collects_pii_or_phi": true,
+      "cloud_providers": ["AWS", "Azure"],
+      "monthly_cloud_bill": "$10K-$50K",
+      "data_types_collected": ["Customer Data", "Behavioral Data", "Transaction Data"],
+      "primary_data_usage": ["Marketing Analytics", "Customer Retention", "Product Development"],
+      "data_valuation_update_frequency": "Quarterly"
+    },
+    "data_quality": {
+      "duplication": 4,
+      "depth": 5,
+      "security": 3,
+      "completeness": 4
+    }
+  }
